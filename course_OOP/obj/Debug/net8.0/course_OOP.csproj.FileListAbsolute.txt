@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\course_OOP\course_OOP\bin\Debug\net8.0\course_OOP.exe
+C:\Users\Lenovo\source\repos\course_OOP\course_OOP\bin\Debug\net8.0\course_OOP.deps.json
+C:\Users\Lenovo\source\repos\course_OOP\course_OOP\bin\Debug\net8.0\course_OOP.runtimeconfig.json
+C:\Users\Lenovo\source\repos\course_OOP\course_OOP\bin\Debug\net8.0\course_OOP.dll
+C:\Users\Lenovo\source\repos\course_OOP\course_OOP\bin\Debug\net8.0\course_OOP.pdb
+C:\Users\Lenovo\source\repos\course_OOP\course_OOP\obj\Debug\net8.0\course_OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\course_OOP\course_OOP\obj\Debug\net8.0\course_OOP.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\course_OOP\course_OOP\obj\Debug\net8.0\course_OOP.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\course_OOP\course_OOP\obj\Debug\net8.0\course_OOP.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\course_OOP\course_OOP\obj\Debug\net8.0\course_OOP.dll
+C:\Users\Lenovo\source\repos\course_OOP\course_OOP\obj\Debug\net8.0\refint\course_OOP.dll
+C:\Users\Lenovo\source\repos\course_OOP\course_OOP\obj\Debug\net8.0\course_OOP.pdb
+C:\Users\Lenovo\source\repos\course_OOP\course_OOP\obj\Debug\net8.0\course_OOP.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\course_OOP\course_OOP\obj\Debug\net8.0\ref\course_OOP.dll
